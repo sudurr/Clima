@@ -3,7 +3,7 @@
 //  Clima
 //
 //  Created by Судур Сугунушев on 08.12.2022.
-//  Copyright © 2022 App Brewery. All rights reserved.
+//  Copyright © 2022 Sudur Sugunushev. All rights reserved.
 //
 
 import Foundation
