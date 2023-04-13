@@ -1,5 +1,5 @@
 
-#  Clima
+#  Clima app
 
 ![ClimaApp](https://user-images.githubusercontent.com/108031144/228788066-08f29da7-bfa9-4fe5-b118-b2e644d3d9ac.gif)
 
