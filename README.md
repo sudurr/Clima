@@ -14,3 +14,4 @@
 * Использованы URLSession для создания запроса HTTP requests
 * Парсинг с помощью JSON с Encodable и Decodable протоколами 
 * Использован Core Location для определения текущего местоположения
+
