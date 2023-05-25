@@ -11,7 +11,6 @@
 
 
 
-
 * UIKit
 * MVC
 * Использованы URLSession для создания запроса HTTP requests
